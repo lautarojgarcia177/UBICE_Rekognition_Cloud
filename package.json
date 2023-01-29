@@ -10,8 +10,17 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@aws-sdk/client-rekognition": "^3.259.0",
+    "@chakra-ui/react": "^2.4.9",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "framer-motion": "^8.5.4",
+    "prop-types": "^15.8.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-feather": "^2.0.10",
+    "react-file-drop": "^3.1.6",
+    "react-router-dom": "^6.8.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
